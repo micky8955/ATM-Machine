@@ -55,7 +55,7 @@ if(pinCreation.code === Pin.password) {
         }else if (amountWithdraw.amount === '5000') {
             console.log(`You Withdraw cash is ${amountWithdraw.amount} $`);
             console.log("Remaing Account balance is : ",myBalance -= 5000,"$");
-        }else if(amountWithdraw.amount === '1000') {
+        }else if(amountWithdraw.amount === '10000') {
             console.log(`You Withdraw cash is ${amountWithdraw.amount} $`);
             console.log("Remaing Account balance is : ",myBalance -= 10000,"$");
         }
