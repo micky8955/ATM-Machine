@@ -1,3 +1,4 @@
+#! /usr/bin/env node 
 console.log("\t\t\t: atm machine :\t\t\t".replace(/(^|\s)\S/g, (char) => char.toUpperCase()));
 import inquirer from "inquirer";
 let myBalance = 15000;

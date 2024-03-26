@@ -1,9 +1,10 @@
 {
-  "name": "atm-machine",
+  "name": "secure-atm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Bank ATM machine using in which we can check balance withdraw cash using typescript",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
