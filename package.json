@@ -1,6 +1,6 @@
 {
   "name": "secure-atm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a Bank ATM machine using in which we can check balance withdraw cash using typescript",
   "main": "index.js",
   "type": "module",
